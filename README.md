@@ -105,3 +105,12 @@ Star the repo if you find it useful!
 ---
 **Made for lab managers, quality teams, and scientific informaticians who need reliable procedure execution.**
 Let's keep laboratory workflows traceable, compliant, and as open as practical.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Laboratory-Execution-System&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Laboratory-Execution-System_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Laboratory-Execution-System_growth.svg">
+  </picture>
+</a>
