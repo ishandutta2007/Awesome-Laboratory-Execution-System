@@ -89,7 +89,7 @@ The table below catalogs premier commercial and SaaS LES solutions, ranked in de
 
 Open-source solutions are vital for academic cores, biofoundries, clinical research teams, and cost-conscious laboratories. These projects provide auditable codebases for procedure execution, protocol automation, sample tracking, and digital laboratory notebooks.
 
-The list below is sorted in **descending order by GitHub star count**:
+The list below is sorted in **descending order by GitHub Stars_Count**:
 
 1. **[eLabFTW](https://github.com/elabftw/elabftw)** [![Stars](https://img.shields.io/github/stars/elabftw/elabftw?style=social&color=white)](https://github.com/elabftw/elabftw/stargazers)  
    The gold standard open-source electronic lab notebook (ELN) and experiment execution tracker. Features 21 CFR Part 11 compliant digital signatures, timestamping, inventory management, custom metadata forms, and a complete REST API.
@@ -170,7 +170,7 @@ Contributions from the laboratory informatics community are warmly welcome!
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch:** `git checkout -b feature/add-new-platform`.
-3. 📝 **Add or Update Information:** Ensure SaaS entries follow the tabular structure with verified starting tier pricing, free trial limits, and company scale. For open-source tools, include the Shields star badge linked to the stargazers page.
+3. 📝 **Add or Update Information:** Ensure SaaS entries follow the tabular structure with verified starting tier pricing, free trial limits, and company scale. For open-source tools, include the Shields Stars_Badge linked to the stargazers page.
 4. 🔎 **Verify Links & Neutrality:** Maintain objective, factual descriptions and verify that official links resolve correctly.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
